@@ -81,8 +81,8 @@ Faced challenges in Streamlit integration, but overcame them using tutorials and
 
 
 📷 Dashboard Preview
-OLA-Ride1
-OLA-Ride-revenue
-ola-ride-vehicletype
-ola-st-db
-ola-st-db
+OLA-Ride1.png
+OLA-Ride-revenue.png
+ola-ride-vehicletype.png
+ola-st-db.png
+st-ola-ride.png
