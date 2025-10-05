@@ -81,11 +81,11 @@ Faced challenges in Streamlit integration, but overcame them using tutorials and
 
 
 📷 Dashboard Preview
-OLA-Ride1.png
-OLA-Ride-revenue.png
-ola-ride-vehicletype.png
-ola-st-db.png
-st-ola-ride.png
+![Overall Dashboard](OLA-Ride1.png)
+![Vehicle Type Analysis](ola-ride-vehicletype.png)
+![Streamlit App](ola-st-db.png)
+![Overall Dashboard](OLA-Ride-revenue.png)
+![Streamlit App](st-ola-ride.png)
 
 Contact Created by Dharmender Sharma
 LinkedIn: (https://www.linkedin.com/in/dharmender-sharma-data-analytics/)
